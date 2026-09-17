@@ -1,0 +1,7 @@
+Com base nos requisitos do anexo, desenvolva "como se fosse um senior em desenvolvimento em python" um codigo Kmens. O código devee ser de forma simples com as funções bem seguimentadas para que estudantes em aprendizado possa entender comentando o significado de cada atributo
+
+Utilizar base de dados do Iris especies vai estar na pasta do programa (está anexada de exemplo)
+Coloque uma variaveis para o usuario decidir valor de K no qual deseja testar, assim como escolher opção 1 para normalização e 2 para padronização dos atributos antes da execução.
+Após desenvolvê-lo, calcule e plote a matriz de confusão e as métricas de avaliação (precisão, revocação, acurácia) do classificador.
+Matriz de confusão e métricas (precisão, revocação, acurácia) apresentadas corretamente.
+Escolha de forma sussinta os parametros utilizados e a quantidade de atributos escolhidos para a classificação no inicio do código
